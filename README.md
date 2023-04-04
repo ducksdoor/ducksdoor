@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there // Hola a todos. 👋
+
+I am a student from '42, for now I will try to upload my course projects and comment on them in Spanish and English. :smile://:smile:
+Soy estudiante del 42, por ahora voy a intentar subir mis proyectos del cursus y comentarlos en español y en ingles. 
+
 
 <!--
 **ducksdoor/ducksdoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
