@@ -1,6 +1,9 @@
 ### Hi there // Hola a todos. 👋
 
-I am a student from '42, for now I will try to upload my course projects and comment on them in Spanish and English. :smile://:smile:
+I am a student from '42, for now I will try to upload my course projects and comment on them in Spanish and English.
+
+:smile://:smile:
+
 Soy estudiante del 42, por ahora voy a intentar subir mis proyectos del cursus y comentarlos en español y en ingles. 
 
 
