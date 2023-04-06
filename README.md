@@ -5,8 +5,11 @@ I am a student from '42, for now I will try to upload my course projects and com
 :smile://:smile:
 
 Soy estudiante del 42, por ahora voy a intentar subir mis proyectos del cursus y comentarlos en español y en ingles. 
+<div>
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+ <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 
-
+</div>
 <!--
 **ducksdoor/ducksdoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
