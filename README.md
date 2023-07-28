@@ -1,13 +1,13 @@
 [![lortega-'s 42 stats](https://badge42.vercel.app/api/v2/clg6ikb4q001108l3y5jci530/stats?cursusId=21&coalitionId=66)](https://github.com/JaeSeoKim/badge42)
 
 
-### Hi there // Hola a todos. 👋
+### Hi there // Hola a todos. 👋 :smile://:smile:
 
-I am a student from '42, for now I will try to upload my course projects and comment on them in Spanish and English.
 
-:smile://:smile:
+
 
 - 💬 Ask me about ...
+  
   Mi nombre es Lucas Ortega Morata.
 En este momento, dedico mi tiempo de programación libre en terminar los proyectos propuesto en el campus de 42 Madrid. Donde soy estudiante.  
 Al mismo tiempo, estoy creando guias de los proyectos en los que estoy avanzando:
