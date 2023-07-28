@@ -7,9 +7,17 @@ I am a student from '42, for now I will try to upload my course projects and com
 
 :smile://:smile:
 
-Soy estudiante del 42, por ahora voy a intentar subir mis proyectos del cursus y comentarlos en español y en ingles. 
+- 💬 Ask me about ...
+  Mi nombre es Lucas Ortega Morata.
+En este momento, dedico mi tiempo de programación libre en terminar los proyectos propuesto en el campus de 42 Madrid. Donde soy estudiante.  
+Al mismo tiempo, estoy creando guias de los proyectos en los que estoy avanzando:
+Siendo actualmente las guia del proyecto So_long ,un pequeño "juego" en 2D. (Proyecto terminado).
+Y la guia guia del proyecto Push_Swap. Donde tendremos que ser capaces de programar un algoritmo de ordenación de numeros. 
 
-Entre otras cosas, quiero dejaros los repositorios de los proyectos que voy haciendo por si os pueden servir de ayuda para realizar vuestro propio código. 
+Quiero dejaros los repositorios de los proyectos que he ido haciendo por si pueden ser utiles para realizar vuestro propio código. 
+Ya sea como apoyo directo a las guias o como fuente de inspiración.
+
+⚡Al final creo que tenemos la suerte de pasarlo bien programando. Animo y al código!⚡
 <div>
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -24,7 +32,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
