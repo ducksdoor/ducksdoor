@@ -17,14 +17,25 @@ Y la guia guia del proyecto Push_Swap. Donde tendremos que ser capaces de progra
 Quiero dejaros los repositorios de los proyectos que he ido haciendo por si pueden ser utiles para realizar vuestro propio código. 
 Ya sea como apoyo directo a las guias o como fuente de inspiración.
 
-[![lib42](https://github.com/ducksdoor/ducksdoor/assets/128644496/12cef6db-c5dc-4925-a33d-42b01a9cab7a)](https://github.com/ducksdoor/Libft_42)
+[![lib42](https://github.com/ducksdoor/ducksdoor/assets/128644496/acaf699d-c305-4a16-9b2b-809d344f3258)](https://github.com/ducksdoor/Libft_42)
+[lib_ft](https://github.com/ducksdoor/Libft_42)
+
+
 <a href="https://github.com/ducksdoor/get_next_line_42">![gnl42](https://github.com/ducksdoor/ducksdoor/assets/128644496/e3082f96-042b-451d-9f37-f6ad51e17691)</a>
+[Get_next_line](https://github.com/ducksdoor/get_next_line_42)
+
+
 <a href="https://github.com/ducksdoor/printf_42">![printf42](https://github.com/ducksdoor/ducksdoor/assets/128644496/30a0b2bd-0054-4cbf-b186-63d8ef750f32)</a>
+[Printf](https://github.com/ducksdoor/printf_42)
+
 <a href="https://github.com/ducksdoor/so_long_42">![so_long42](https://github.com/ducksdoor/ducksdoor/assets/128644496/e2cddd64-77cc-492e-8458-368b29b728ca)</a>
+[so_long](https://github.com/ducksdoor/so_long_42)
+
 <a href="https://github.com/ducksdoor/Push_swap_42">![push_swap42](https://github.com/ducksdoor/ducksdoor/assets/128644496/12fdf750-1612-4717-998f-1b533573029b)</a>
+[Push_swap](https://github.com/ducksdoor/Push_swap_42)
+
 <a href="https://github.com/ducksdoor/pipex_42">![pipex42](https://github.com/ducksdoor/ducksdoor/assets/128644496/3eff74ba-6288-43d7-8734-b1fb5c1ff8f5)</a>
-
-
+[pipex](https://github.com/ducksdoor/pipex_42)
 
 
 
