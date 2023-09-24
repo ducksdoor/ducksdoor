@@ -17,7 +17,7 @@ Y la guia guia del proyecto Push_Swap. Donde tendremos que ser capaces de progra
 Quiero dejaros los repositorios de los proyectos que he ido haciendo por si pueden ser utiles para realizar vuestro propio código. 
 Ya sea como apoyo directo a las guias o como fuente de inspiración.
 
-<a href="https://github.com/ducksdoor/Libft_42">![lib42](https://github.com/ducksdoor/ducksdoor/assets/128644496/12cef6db-c5dc-4925-a33d-42b01a9cab7a)</a>
+[![lib42](https://github.com/ducksdoor/ducksdoor/assets/128644496/12cef6db-c5dc-4925-a33d-42b01a9cab7a)](https://github.com/ducksdoor/Libft_42)
 <a href="https://github.com/ducksdoor/get_next_line_42">![gnl42](https://github.com/ducksdoor/ducksdoor/assets/128644496/e3082f96-042b-451d-9f37-f6ad51e17691)</a>
 <a href="https://github.com/ducksdoor/printf_42">![printf42](https://github.com/ducksdoor/ducksdoor/assets/128644496/30a0b2bd-0054-4cbf-b186-63d8ef750f32)</a>
 <a href="https://github.com/ducksdoor/so_long_42">![so_long42](https://github.com/ducksdoor/ducksdoor/assets/128644496/e2cddd64-77cc-492e-8458-368b29b728ca)</a>
