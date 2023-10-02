@@ -10,9 +10,7 @@
   
   Mi nombre es Lucas Ortega Morata.
 En este momento, dedico mi tiempo de programación libre en terminar los proyectos propuesto en el campus de 42 Madrid. Donde soy estudiante.  
-Al mismo tiempo, estoy creando guias de los proyectos en los que estoy avanzando:
-Siendo actualmente las guia del proyecto So_long ,un pequeño "juego" en 2D. (Proyecto terminado).
-Y la guia guia del proyecto Push_Swap. Donde tendremos que ser capaces de programar un algoritmo de ordenación de numeros. 
+Al mismo tiempo.
 
 Quiero dejaros los repositorios de los proyectos que he ido haciendo por si pueden ser utiles para realizar vuestro propio código. 
 Ya sea como apoyo directo a las guias o como fuente de inspiración.
@@ -36,6 +34,12 @@ Ya sea como apoyo directo a las guias o como fuente de inspiración.
 
 <a href="https://github.com/ducksdoor/pipex_42">![pipex42](https://github.com/ducksdoor/ducksdoor/assets/128644496/3eff74ba-6288-43d7-8734-b1fb5c1ff8f5)</a>
 [pipex](https://github.com/ducksdoor/pipex_42)
+
+
+De la misma manera os pongo los proyectos que no terminado, pero que ya podeis ir cotilleando:
+
+<a href="https://github.com/ducksdoor/philosopher_42">![philosophers](https://github.com/ducksdoor/ducksdoor/assets/128644496/3b8f337a-af15-4a03-ac3c-dc5133eea082)</a>
+[philosophers](https://github.com/ducksdoor/philosopher_42)
 
 
 
