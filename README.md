@@ -36,11 +36,11 @@ Ya sea como apoyo directo a las guias o como fuente de inspiración.
 [pipex](https://github.com/ducksdoor/pipex_42)
 
 
-De la misma manera os pongo los proyectos que no terminado, pero que ya podeis ir cotilleando:
-
 <a href="https://github.com/ducksdoor/philosopher_42">![philosophers](https://github.com/ducksdoor/ducksdoor/assets/128644496/3b8f337a-af15-4a03-ac3c-dc5133eea082)</a>
 [philosophers](https://github.com/ducksdoor/philosopher_42)
 
+
+De la misma manera os pongo los proyectos que no terminado, pero que ya podeis ir cotilleando:
 
 
 ⚡Al final creo que tenemos la suerte de pasarlo bien programando. Animo y al código!⚡
