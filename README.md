@@ -1,5 +1,3 @@
-[![lortega-'s 42 stats](https://badge42.vercel.app/api/v2/clg6ikb4q001108l3y5jci530/stats?cursusId=21&coalitionId=66)](https://github.com/JaeSeoKim/badge42)
-
 
 ### Hi there // Hola a todos. 👋 :smile://:smile:
 
